@@ -1,6 +1,11 @@
 # 🎯💻Ecommerce Food Product Sales Forecasting System
 
-This repository contains the Ecommerce website which shows the food product forecasting on website only for users.
+This repository contains the E-commerce website which shows the visualization of different types food products & their forecasting on website for users.
+
+E-commerce has evolved to make products easier to discover and purchase through online retailers and marketplaces. Food Products sector is the largest retail category. 
+There are many leading food ecommerce sites available in the market, which leads to high competition among food retailers. Online food retailers face many
+problems like coming new trends, food quality, etc. because of this the sales graphs fluctuates. Hence there is a wide need for sales prediction system. 
+And that’s exactly the problem companies struggle with collecting data. To overcome this problem, we have proposed an ecommerce food products sales forecasting system which helps by maintaining the previous sales data and on the basis of previous sales it predicts the upcoming year sales. 
 
 ## Owner
 
@@ -8,8 +13,23 @@ This repository contains the Ecommerce website which shows the food product fore
 
 # Overview
 
-The main aim of this project is to predicts the upcoming year sales.
+- The main aim of this project is to provide user-friendly interface for users to buy food products anytime and from anywhere.
+- We have aldo included visualization of the sales data so that user can understand and analyze well.
+- Along with visualizations, there is forecasting for sales of food products in near future.
  
+# Knowledge Requirements
+
+- Here for this we need the required knowledge over the data analysis and visualization in Machine learning and basic knowledge of web
+development.  
+
+# Level of tasks
+* Importing the modules.
+* Fetching and reading the data through CSV file.
+* Preprocessing of data.
+* Feature engineering of the preprocessed data.
+* Visualization of data
+* Forecasting Sales
+* Adding visualization of data to our website for the use of customers
 
 ## Project Maintainers
 
