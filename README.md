@@ -2,10 +2,6 @@
 
 This repository contains the Ecommerce website which shows the food product forecasting on website only for users.
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome to Food Product Sales Forecasting System"/>
-</p>
-
 ## Owner
 
 * [Anuradha Jadon💻](https://github.com/Anuradha0501)
@@ -19,7 +15,7 @@ The main aim of this project is to predicts the upcoming year sales.
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/Anuradha0501"><img alt="" src="https://avatars.githubusercontent.com/u/71958796s=400&u=350ae54917050eabf8380816a85c688b955f5d87&v=4" width="130px;"><br><sub><b>
+<td align="center"><a href="https://github.com/Anuradha0501"><img alt=""src="https://avatars.githubusercontent.com/u/71958796s=400&u=350ae54917050eabf8380816a85c688b955f5d87&v=4" width="130px;"><br><sub><b>
  Anuradha Jadon</b></sub></a><br>💻</td></td>
     <td align="center"><a href="https://github.com/ayushi424"><img alt="" src="https://avatars.githubusercontent.com/u/68391974?v=4" width="130px;"><br><sub><b>
  Ayushi Shrivastava </b></sub></a><br>💻</td></td>
